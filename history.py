@@ -1,642 +1,3 @@
-# -*- coding: utf-8 -*-
-# *** Spyder Python Console History Log ***
-
-## ---(Sun Jan  1 15:36:50 2023)---
-
-print("Hello World")
-runfile('/Users/alexandralozser/.spyder-py3/temp.py', wdir='/Users/alexandralozser/.spyder-py3')
-a = "Hello, Python"
-print(a)
-a = 10
-
-b = 10.0
-%clear
-a = 10
-
-b = 10.0
-c = 10j
-print(a, b, c)
-runcell(0, '/Users/alexandralozser/.spyder-py3/temp.py')
-type(c)
-x = float(8)
-y = int(9.7)
-x = float(a)
-x = float(c)
-d = complex(b)
-d = complex(a)
-x = -9.5
-abs(x)
-c = 10.8714623
-round(c, 2)
-runfile('/Users/alexandralozser/.spyder-py3/temp.py', wdir='/Users/alexandralozser/.spyder-py3')
-import math
-
-math.isfinite(a)
-math.isnan(a)
-math.sqrt(a)
-a = 20 
-
-import math
-
-math.isfinite(a)
-
-math.isnan(a)
-
-math.sqrt(a)
-math.isfinite(a)
-math.isnan(a)
-math.sqrt(a)
-math.exp(a)
-math.log(a)
-math.pi
-math.pi()
-def getProduct(a, b):
-    c = a * b  
-    if c <= 100
-    return c
-else: print('Greater than 100')
-def getProduct(a, b):
-    c = a * b  
-    if c <= 100:
-    return c
-else: print('Greater than 100')
-def getProduct(a, b):
-    c = a * b  
-    if c <= 100:
-    return c
-    else: print('Greater than 100')
-def getProduct(a, b):
-    c = a * b  
-    if c <= 100:
-        return c
-    else: 
-        print('Greater than 100')
-getProduct(a,b)
-
-getProduct(a, b)
-getProduct(20, 30)
-
-getProduct(20, 30)
-getProduct(20, 30)
-def getProduct(num1, num2):
-    c = num1 + num2  
-    if c <= 100:
-        return c
-    else:
-         print(num1 * num2)
-
-
-
-
-getProduct(20, 30)
-getProduct(20, 30)
-getProduct(40, 30)
-def getProduct(num1, num2):
-    
-    c = num1 + num2  
-    d = num1 * num2
-    
-    if c <= 100:
-        print(c)
-    else:
-        print(d)
-
-
-
-
-
-getProduct(40, 30)
-
-getProduct(20, 30)
-getProduct(20, 30)
-
-getProduct(20, 30)
-getProduct(20, 30)
-%clear
-
-def getProduct(num1, num2):
-    
-    result = num1 * num2
-    
-    if result <= 1000:
-        print(result)
-    else:
-        print(num1+num2)
-
-
-
-
-
-getProduct(20, 30)
-
-print(var_str)
-var_str = "My name is Alex"
-
-print(var_str)
-print(var_str)
-runfile('/Users/alexandralozser/.spyder-py3/stringz.py', wdir='/Users/alexandralozser/.spyder-py3')
-
-var_str4 = "My name is Alex"
-
-print(var_str4[0])
-var_str4 = "My name is Alex"
-
-# accessing characters using index position (starts at 0)
-print(var_str4[0])
-
-#accessing a range of charcters, also known as slicing of the string
-
-print(var_str4[3-7])
-
-print(var_str4[3:7])
-
-
-print(var_str4[-6:-2])
-var_str4 = "My name is Jitesh"
-
-# accessing characters using index position (starts at 0)
-print(var_str4[0])
-
-#accessing a range of charcters, also known as slicing of the string
-print(var_str4[3:7])
-
-# accessing using negative index (starting from the end of the string)
-
-print(var_str4[-6:-2])
-
-var1 = "hello"
-var2 = "World"
-
-print(var1 + " " + var2)
-print(var1 + " " + var2)
-"Hello" in var3
-var3 = var1 + " " + var2)
-
-#search for a substring using "in" and "not in"
-
-"Hello" in var3
-var3 = var1 + " " + var2
-
-#search for a substring using "in" and "not in"
-
-"Hello" in var3
-
-var1 = "Hello"
-var2 = "World"
-
-var3 = var1 + " " + var2
-
-#search for a substring using "in" and "not in"
-
-"Hello" in var3
-"Hello" in var3
-"hello" in var3
-
-"hello" not in var3
-"Hello" not in var3
-
-print("My name is %s and my age is %i" %(("Alex", 24)))
-print("My name is %s and my age is %f" %(("Alex", 24)))
-print("My name is %s and my age is %i" %(("Alex", 24)))
-print(varOne)
-varOne = 'C:\\user\test.data'
-
-print(varOne)
-varOne = 'C:\\user\\test.data'
-
-print(varOne)
-varOne = r'C:\user\\test.data'
-
-print(varOne)
-varOne = r'C:\user\test.data'
-
-print(varOne)
-var11 = "Programmng is easy with Python"
-
-# getting the length of the string
-len(var11)
-
-var11 = "Programming is easy with Python"
-
-# getting the length of the string
-len(var11)
-var11 = "Programming is easy with Python"
-
-# getting the length of the string
-len(var11)
-
-#count the number of characters in a string or substring
-var1.count("i")
-var11 = "Programming is easy with Python"
-
-# getting the length of the string
-len(var11)
-
-#count the number of characters in a string or substring
-var11.count("i")
-var11.find("Python")
-var11.index("Python")
-var11.upper()
-var11.lower()
-var12.ljust(12)
-var12 = "Python"
-print(var12)
-
-var12.ljust(12)
-var12 = 'Python'
-print(var12)
-var12 = "Python"
-print(var12)
-var12 = "Python"
-print(var12)
-
-var12.ljust(12["-"])
-var12.rjust(12)
-var12.ljust(12, 0)
-var12.ljust(12, "0")
-var12.ljust(12, "-")
-
-name, age = "Alex", 24
-var3 = "John,M,42,8000,Software Developer"
-
-# assigning values to multiple variables in one line
-#name, age = "Alex", 24
-
-name, gender, age, salary, role = var3.split(",")
-var3 = "John,M,42,8000,Software Developer"
-
-# assigning values to multiple variables in one line
-#name, age = "Alex", 24
-
-name, gender, age, salary, role = var3.split(sep=",")
-salary.isNumeric()
-salary.isnumeric()
-
-var3 = "John,M,42,8000 ,Software Developer"
-
-# assigning values to multiple variables in one line
-#name, age = "Alex", 24
-
-name, gender, age, salary, role = var3.split(sep=",")
-
-#isNumeric method
-#check isNumeric before converting and performing numerical operations
-
-
-salary.isnumeric()
-var3 = "John,M,42,8000 ,Software Developer"
-
-# assigning values to multiple variables in one line
-#name, age = "Alex", 24
-
-name, gender, age, salary, role = var3.split(sep=",")
-
-#isNumeric method
-#check isNumeric before converting and performing numerical operations
-
-salary.trim()
-salary = int(salary)
-salary.isnumeric()
-salary = float(salary)
-salary = float(salary)
-name = name.strip()
-var4 = "John    ,M,42,  8000  ,   Software Developer\n"
-name, gender, age, salary, role = var4.split(sep=',')
-
-name = name.strip()
-name = name.strip()
-salary = salary.strip()
-role = role.strip('\n')
-var4.strip()
-role.lstrip()
-
-role = role.lstrip()
-runfile('/Users/alexandralozser/.spyder-py3/delimiters.py', wdir='/Users/alexandralozser/.spyder-py3')
-
-var13 = "John plays football. John plays tennis."
-print(var13)
-
-varC = input("Current value to be replaced : ")
-varN = input("Please enter the new value : ")
-
-var13.replace(varC, varN)
-var13 = "John plays football. John plays tennis."
-print(var13)
-
-varC = input("Current value to be replaced : ")
-varN = input("Please enter the new value : ")
-
-var13.replace(varC, varN)
-%clear
-var13 = "John plays football. John plays tennis."
-print(var13)
-
-varC = input("Current value to be replaced : ")
-varN = input("Please enter the new value : ")
-
-var13.replace(varC, varN)
-var13 = "John plays football. John plays tennis."
-print(var13)
-
-varC = input("Current value to be replaced : ")
-varN = input("Please enter the new value : ")
-count = input("Number of instances to be removed: ")
-
-var13.replace(varC, varN, count)
-var13 = "John plays football. John plays tennis."
-print(var13)
-
-varC = input("Current value to be replaced : ")
-varN = input("Please enter the new value : ")
-count = input("Number of instances to be removed: ")
-
-var13.replace(varC, varN, int(count))
-user_name = "Gates"
-
-order_value = int(input("Please enter the order value : "))
-
-# 1 way. format by sequence
-
-result = "the total order value for Mr. {} is ${}."
-result.format(user_name, order_value)
-
-result = "Customer name is Mr. {0}. The total order value for Mr. {0} is ${1}."
-result.format(user_name, order_value)
-
-result = "the total order value for Mr. {name} is ${value}."
-result.format(name=user_name, value=order_value)
-
-## ---(Tue Jan  3 21:30:30 2023)---
-
-name = input("your name please: ")
-age = input("and your age is...?")
-age = int(age)
-name = input("your name please: ")
-age = int(input("and your age is...?"))
-
-
-def decadeOld(age):
-    if age < 100:
-        until100 = 100 - age
-        return until100
-    elif age > 100:
-        return("improper age input")
-
-result = ("Hello {name}, you'll turn 100 years old in {until100} years")
-result.format(name, decadeOld(age))
-name = input("your name please: ")
-age = int(input("and your age is...?"))
-
-
-def decadeOld(age):
-    if age < 100:
-        until100 = 100 - age
-        return until100
-    elif age > 100:
-        return("improper age input")
-
-result = ("Hello {name}, you'll turn 100 years old in {until100} years")
-result.format(name=name, until100=decadeOld(age))
-
-
-name = input("your name please: ")
-age = int(input("and your age is...?"))
-
-
-def decadeOld(age):
-    if age < 100:
-        until100 = 100 - age
-        return until100
-    elif age > 100:
-        return("improper age input")
-
-result = ("Hello {name}, you'll turn 100 years old in {until100} years")
-result.format(name=name, until100=decadeOld(age))
-name = input("What is your name: ")
-age = int(input("How old are you: "))
-year = 2014 - age + 100
-print(name + ", you will be 100 years old in the year " + str(year))
-name = input("What is your name: ")
-age = int(input("How old are you: "))
-year = 2023 - age + 100
-print(name + ", you will be 100 years old in the year " + str(year))
-name = input("What is your name: ")
-age = int(input("How old are you: "))
-year = datetime.date().year - age + 100
-print(name + ", you will be 100 years old in the year " + str(year))
-import datetime
-
-name = input("What is your name: ")
-age = int(input("How old are you: "))
-year = datetime.date.year - age + 100
-print(name + ", you will be 100 years old in the year " + str(year))
-import datetime
-
-name = input("What is your name: ")
-age = int(input("How old are you: "))
-year = datetime.date.year - age + 100
-print(name + ", you will be 100 years old in the year " + year)
-import datetime
-
-name = input("What is your name: ")
-age = int(input("How old are you: "))
-
-today = datetime.date.today()
-year = today.year - age + 100
-
-print(name + ", you will be 100 years old in the year " + year)
-import datetime
-
-name = input("What is your name: ")
-age = int(input("How old are you: "))
-
-today = datetime.date.today()
-year = today.year - age + 100
-
-print(name + ", you will be 100 years old in the year " + int(year))
-
-import datetime
-
-name = input("What is your name: ")
-age = int(input("How old are you: "))
-
-today = datetime.date.today()
-year = today.year - age + 100
-
-print(name + ", you will be 100 years old in the year " + year)
-import datetime
-
-name = input("What is your name: ")
-age = int(input("How old are you: "))
-
-today = datetime.date.today()
-year = str(today.year - age + 100)
-
-print(name + ", you will be 100 years old in the year " + year)
-import datetime
-
-name = input("What is your name: ")
-age = int(input("How old are you: "))
-
-#today = datetime.date.today().year
-year = str(datetime.date.today().year - age + 100)
-
-print(name + ", you will be 100 years old in the year " + year)
-
-num = input("Please enter number: ")
-
-def numCheck(num):
-    if num % 4:
-        return "divisible by 4"
-    elif num % 2:
-        return "num is even"
-    else:
-        return "num is odd"
-
-print(numCheck(num))
-
-num = int(input("Please enter number: "))
-
-def numCheck(num):
-    if num % 4:
-        return "divisible by 4"
-    elif num % 2:
-        return "num is even"
-    else:
-        return "num is odd"
-
-print(numCheck(num))
-
-
-num = int(input("Please enter number: "))
-
-def numCheck(num):
-    if num / 4:
-        return "divisible by 4"
-    elif num % 2:
-        return "num is even"
-    else:
-        return "num is odd"
-
-print(numCheck(num))
-num = int(input("Please enter number: "))
-
-def numCheck(num):
-    if num / 4:
-        return "divisible by 4"
-    elif num % 2:
-        return "num is even"
-    else:
-        return "num is odd"
-
-print(numCheck(num))
-
-def numCheck(num):
-    if num % 4 == 0:
-        return "divisible by 4"
-    elif num % 2 == 0:
-        return "num is even"
-    else:
-        return "num is odd"
-
-print(numCheck(num))
-10
-
-num = int(input("Please enter number: "))
-
-def numCheck(num):
-    if num % 4 == 0:
-        return "divisible by 4"
-    elif num % 2 == 0:
-        return "num is even"
-    else:
-        return "num is odd"
-
-print(numCheck(num))
-
-## ---(Tue Jan 10 21:23:16 2023)---
-salary = int(input("Please enter your salary: "))
-
-# condition for salary -> if salary is greater than 5000
-if salary > 5000:
-    print("Congratulations, your loan is approved")
-"""
-Created on Tue Jan 10 21:23:29 2023
-
-@author: alexandralozser
-"""
-
-# accept the input from the user
-
-salary = int(input("Please enter your salary: "))
-
-# condition for salary -> if salary is greater than 5000
-if salary > 5000:
-    print("Congratulations, your loan is approved")
-else:
-    print("Sorry, your loan was rejected")
-debugfile('/Users/alexandralozser/.spyder-py3/if_else.py', wdir='/Users/alexandralozser/.spyder-py3')
-
-var_str = "Python"
-
-if var_str:
-    print("this variable is neither empty or zero")
-
-var_str = ""
-
-if var_str:
-    print("this variable is neither empty or zero")
-else:
-    print("variable is empty")
-var_str2 = 10
-
-if var_str2:
-    pass
-else:
-    print("variable is empty")
-
-
-salary = int(input("Please enter your salary: "))
-
-# if-else conditions
-if salary >= 7000:
-    print("Automatically approved loan")
-else:
-    if salary >= 5000:
-        print("manually approved")
-    else:
-        print("rejected")
-salary = int(input("Please enter your salary: "))
-
-if salary >= 7000:
-    print("Automatically approved loan")
-elif salary >= 5000:
-        print("manually approved")
-else:
-        print("rejected")
-Created on Thu Jan 12 21:41:37 2023
-
-@author: alexandralozser
-"""
-
-salary = int(input("Please enter your salary: "))
-
-age = int(input("Please enter your age: "))
-
-# new line
-print("")
-
-if salary >= 7000 and age >= 45:
-    print("auto approved")
-else:
-    print("approved manually")
-salary = int(input("Please enter your salary: "))
-
-age = int(input("Please enter your age: "))
-
-# new line
-print("")
-
 if salary >= 7000 and age >= 45:
     print("auto approved")
 else:
@@ -1623,3 +984,291 @@ runfile('/Users/alexandralozser/.spyder-py3/PhonebookProject.py', wdir='/Users/a
 runcell(0, '/Users/alexandralozser/.spyder-py3/PhonebookProject.py')
 %clear
 debugfile('/Users/alexandralozser/.spyder-py3/PhonebookProject.py', wdir='/Users/alexandralozser/.spyder-py3')
+
+## ---(Sat Feb 18 21:38:50 2023)---
+runfile('/Users/alexandralozser/untitled4.py', wdir='/Users/alexandralozser')
+runfile('/Users/alexandralozser/NodeTraversalExample.py', wdir='/Users/alexandralozser')
+debugfile('/Users/alexandralozser/NodeTraversalExample.py', wdir='/Users/alexandralozser')
+runfile('/Users/alexandralozser/NodeTraversalExample.py', wdir='/Users/alexandralozser')
+debugfile('/Users/alexandralozser/NodeTraversalExample.py', wdir='/Users/alexandralozser')
+runfile('/Users/alexandralozser/NodeTraversalExample.py', wdir='/Users/alexandralozser')
+debugfile('/Users/alexandralozser/NodeTraversalExample.py', wdir='/Users/alexandralozser')
+
+## ---(Sun Feb 19 16:24:37 2023)---
+runfile('/Users/alexandralozser/NodeTraversalExample.py', wdir='/Users/alexandralozser')
+%clear
+runfile('/Users/alexandralozser/AnagramExample.py', wdir='/Users/alexandralozser')
+debugfile('/Users/alexandralozser/AnagramExample.py', wdir='/Users/alexandralozser')
+
+## ---(Sat Feb 25 19:20:38 2023)---
+runfile('/Users/alexandralozser/.spyder-py3/PhonebookProject.py', wdir='/Users/alexandralozser/.spyder-py3')
+debugfile('/Users/alexandralozser/.spyder-py3/PhonebookProject.py', wdir='/Users/alexandralozser/.spyder-py3')
+
+import datetime
+
+date1 = datetime.date(2014, 12, 31)
+
+import datetime
+
+date1 = datetime.date(2014, 12, 31)
+
+year = date1.year
+
+import datetime
+
+date1 = datetime.date(2014, 12, 31)
+
+year = date1.year
+month = date1.month
+day = date1.day
+
+year1 = 2018
+month1 = 11
+day1 = 31
+
+date2 = datetime.date(year1, month1, day1)
+
+year1 = 2018
+month1 = 11
+day1 = 30
+
+date2 = datetime.date(year1, month1, day1)
+
+time1 = datetime.time()
+print(time1)
+time1 = datetime.time(23, 59, 59, 1000)
+print(time1)
+
+
+datetime.datetime()
+
+dt = datetime.datetime(2023, 2, 25)
+
+
+d1 = datetime.date.today()
+
+
+d1 = datetime.datetime.today()
+
+
+s1 = input("Please enter first string: ")
+s2 = input("Enter second string: ")
+
+
+# first check if the length is the same for both
+
+if len(s1) > len(s2) or len(s1) < len(s2):
+    print("not an anagram")
+else:
+    print("same length")
+runfile('/Users/alexandralozser/.spyder-py3/AnagramChallenge.py', wdir='/Users/alexandralozser/.spyder-py3')
+
+
+
+
+
+s1 = input("Please enter first string: ")
+s2 = input("Enter second string: ")
+
+
+# first check if the length is the same for both
+
+if len(s1) > len(s2) or len(s1) < len(s2):
+    print("not an anagram")
+else:
+    print("same length")
+    for ch in s1:
+        print(ch)
+
+
+
+s1 = input("Please enter first string: ")
+s2 = input("Enter second string: ")
+
+
+# first check if the length is the same for both
+
+if len(s1) > len(s2) or len(s1) < len(s2):
+    print("not an anagram")
+else:
+    print("same length")
+    for ch in s1:
+        print(ch)  
+        for ch2 in s2:
+             print(ch2)
+debugfile('/Users/alexandralozser/.spyder-py3/AnagramChallenge.py', wdir='/Users/alexandralozser/.spyder-py3')
+runfile('/Users/alexandralozser/.spyder-py3/AnagramChallenge.py', wdir='/Users/alexandralozser/.spyder-py3')
+debugfile('/Users/alexandralozser/.spyder-py3/AnagramChallenge.py', wdir='/Users/alexandralozser/.spyder-py3')
+runfile('/Users/alexandralozser/.spyder-py3/AnagramChallenge.py', wdir='/Users/alexandralozser/.spyder-py3')
++
+
+date1.isoweekday()
+from datetime import datetime
+
+date1 = datetime(2017, 11, 10, 21, 45, 19)
+
+str(date1)
+%clear
+runcell(0, '/Users/alexandralozser/.spyder-py3/DateFormatting.py')
+
+file1 = open('sales.txt', 'r')
+
+# Check the open mode
+
+
+file1 = open('/Desktop/Python Masterclass Materials/Skillshare Classroom Handsons/sales.txt', 'r')
+runfile('/Users/alexandralozser/.spyder-py3/Files_IO_Processing.py')
+
+file1 = open('/Users/alexandraLozser/Desktop/Python Masterclass Materials/Skillshare Classroom Handsons/sales.txt', 'r')
+%clear
+
+
+file1 = open('/Users/alexandraLozser/Desktop/Python Masterclass Materials/Skillshare Classroom Handsons/sales.txt', 'r')
+
+# Check the open mode
+file1.mode
+
+
+# Read the file - One record at a time using readline 
+record1 = file1.readline()
+
+records = file1.readlines()
+
+file1 = open('/Users/alexandraLozser/Desktop/Python Masterclass Materials/Skillshare Classroom Handsons/sales.txt', 'r')
+
+# Check the open mode
+file1.mode
+
+
+# Read the file - One record at a time using readline 
+record1 = file1.readline()
+
+# Reposition the file pointer
+file1.seek(0)
+
+# Read all the records from the current pointer
+records = file1.readlines()
+
+
+# Close the file
+file1.close()
+%clear
+
+file1 = open('/Users/alexandraLozser/Desktop/Python Masterclass Materials/Skillshare Classroom Handsons/sales.txt', 'r')
+
+# Read all the records from the current pointer
+records = file1.readlines()
+
+
+total = 0.0
+
+for record in records:
+    order_id, trans_value = record.split(",")
+    total += float(trans_value)
+
+
+total = round(total, 2)
+"""
+
+# Open the file
+file1 = open('/Users/alexandraLozser/Desktop/Python Masterclass Materials/Skillshare Classroom Handsons/sales.txt', 'r')
+
+# Read all the records from the current pointer
+records = file1.readlines()
+
+# READLINES IS NOT RECOMMENDED WHEN USING LARGE FILES
+
+
+total_2 = 0.0
+
+for record in file1:
+    order_id, trans_value = record.split(",")
+    total_2 += float(trans_value)
+
+
+# specifying how many digits after the period do we want
+total = round(total_2, 2)
+file1 = open('/Users/alexandraLozser/Desktop/Python Masterclass Materials/Skillshare Classroom Handsons/sales.txt', 'r')
+
+# Read all the records from the current pointer
+records = file1.readlines()
+
+# READLINES IS NOT RECOMMENDED WHEN USING LARGE FILES
+
+
+total_2 = 0.0
+
+for record in file1:
+    order_id, trans_value = record.split(",")
+    total_2 += float(trans_value)
+
+
+# specifying how many digits after the period do we want
+total = round(total_2, 2)
+
+
+file1 = open('/Users/alexandraLozser/Desktop/Python Masterclass Materials/Skillshare Classroom Handsons/sales.txt', 'r')
+
+# Read all the records from the current pointer
+#records = file1.readlines()
+
+# READLINES IS NOT RECOMMENDED WHEN USING LARGE FILES
+
+
+total_2 = 0.0
+
+for record in file1:
+    order_id, trans_value = record.split(",")
+    total_2 += float(trans_value)
+
+
+# specifying how many digits after the period do we want
+total = round(total_2, 2)
+file1 = open('/Users/alexandraLozser/Desktop/Python Masterclass Materials/Skillshare Classroom Handsons/sales.txt', 'r')
+
+file1 = open('/Users/alexandraLozser/Desktop/Python Masterclass Materials/Skillshare Classroom Handsons/sales.txt', 'r')
+
+# going through the file, checking if the second float is above 150.0
+
+file1 = open('/Users/alexandraLozser/Desktop/Python Masterclass Materials/Skillshare Classroom Handsons/sales.txt', 'ra')
+
+# going through the file, checking if the second float is above 150.0
+file1 = open('/Users/alexandraLozser/Desktop/Python Masterclass Materials/Skillshare Classroom Handsons/sales.txt', 'r')
+file2 = open('salestype.txt', 'w')
+runfile('/Users/alexandralozser/.spyder-py3/WritingToFiles.py')
+
+file1 = open('/Users/alexandraLozser/Desktop/Python Masterclass Materials/Skillshare Classroom Handsons/sales.txt', 'r')
+file2 = open('salestype.txt', 'a')
+
+# going through the file, checking if the second float is above 150.0
+# if yes, add an H after
+#if no, add an L after
+
+comparator = 150.00
+
+for record in file1:
+    order_id, trans_value = record.split(",")
+    
+    if float(trans_value) < 150.00:
+        file2.write(record + ",L")
+    else:
+        file2.write(record + ",H")
+runfile('/Users/alexandralozser/.spyder-py3/WritingToFiles.py')
+debugfile('/Users/alexandralozser/.spyder-py3/WritingToFiles.py')
+runfile('/Users/alexandralozser/.spyder-py3/WritingToFiles.py')
+debugfile('/Users/alexandralozser/.spyder-py3/WritingToFiles.py')
+runfile('/Users/alexandralozser/.spyder-py3/WritingToFiles.py')
+runfile('/Users/alexandralozser/.spyder-py3/OpenWithFiles.py')
+%clear
+runfile('/Users/alexandralozser/.spyder-py3/functions.py')
+runfile('/Users/alexandralozser/.spyder-py3/taxCalculationFunctionExercise.py')
+debugfile('/Users/alexandralozser/.spyder-py3/taxCalculationFunctionExercise.py')
+runfile('/Users/alexandralozser/.spyder-py3/taxCalculationFunctionExercise.py')
+debugfile('/Users/alexandralozser/.spyder-py3/taxCalculationFunctionExercise.py')
+runfile('/Users/alexandralozser/.spyder-py3/taxCalculationFunctionExercise.py')
+debugfile('/Users/alexandralozser/.spyder-py3/taxCalculationFunctionExercise.py')
+runfile('/Users/alexandralozser/.spyder-py3/taxCalculationFunctionExercise.py')
+debugfile('/Users/alexandralozser/.spyder-py3/taxCalculationFunctionExercise.py')
+runfile('/Users/alexandralozser/.spyder-py3/taxCalculationFunctionExercise.py')
+runfile('/Users/alexandralozser/.spyder-py3/twoSumChallenge.py')
+debugfile('/Users/alexandralozser/.spyder-py3/twoSumChallenge.py')

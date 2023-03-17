@@ -175,6 +175,7 @@ strip_trailing_spaces_on_modify = False
 undocked_on_window_close = False
 enable = True
 windows_layout_settings = []
+window_geometry = 01d9d0cb000300000000090f0000006600000d6f000003eb0000090f0000006600000d6f000003eb000000010000000007800000090f0000006600000d6f000003eb
 
 [historylog]
 enable = True
@@ -289,7 +290,7 @@ console/use_cwd = True
 console/use_fixed_directory = False
 startup/use_project_or_home_directory = True
 startup/use_fixed_directory = False
-history = ['/Users/alexandralozser/.spyder-py3', '/Users/alexandralozser']
+history = ['/Users/alexandralozser', '/Users/alexandralozser/.spyder-py3']
 
 [tours]
 enable = True
